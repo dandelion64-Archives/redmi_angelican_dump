@@ -1,0 +1,19 @@
+## angelican-user 10 QP1A.190711.020 V12.0.16.0.QCSMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: angelican
+- Brand: Redmi
+- Flavor: angelican-user
+- Release Version: 10
+- Kernel Version: 4.9.190
+- Id: QP1A.190711.020
+- Incremental: V12.0.16.0.QCSMIXM
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/angelican_global/angelican:10/QP1A.190711.020/V12.0.16.0.QCSMIXM:user/release-keys
+- OTA version: 
+- Branch: angelican-user-10-QP1A.190711.020-V12.0.16.0.QCSMIXM-release-keys
+- Repo: redmi_angelican_dump
